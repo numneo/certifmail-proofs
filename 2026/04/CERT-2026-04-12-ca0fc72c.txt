@@ -1,0 +1,3 @@
+Document ID : CERT-2026-04-12-ca0fc72c
+Timestamp   : 2026-04-12T08:17:52Z
+SHA-256     : 52ec6849d3643dbf6f2dac629c566a2d0f78c5f71c13aede411958284c587a20
