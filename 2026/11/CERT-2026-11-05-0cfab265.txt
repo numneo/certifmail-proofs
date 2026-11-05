@@ -1,0 +1,3 @@
+Document ID : CERT-2026-11-05-0cfab265
+Timestamp   : 2026-11-05T14:28:51Z
+SHA-256     : d80d24546d6db56a5be4ad24c0cfe9ca6a3feed64bd30fd4ee80ff2967214910
