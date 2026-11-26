@@ -1,0 +1,3 @@
+Document ID : CERT-2026-11-26-9a445d99
+Timestamp   : 2026-11-26T10:02:03Z
+SHA-256     : 0adbcb11d8a44cfc3b3eef9aa68bcdfb6936f753ad1d82a398435e42667c820e
